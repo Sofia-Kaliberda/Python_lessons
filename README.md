@@ -1,2 +1,2 @@
 # Python_lessons
-Homework and stuff
+Repo with lessons
